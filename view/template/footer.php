@@ -1,3 +1,4 @@
+</div>
     <footer class=" bg-info mt-4  justify-content-center">
         <div class="col-12 row p-3 justify-content-center">
             <div class="col-12 col-lg-4 p-1">
@@ -23,6 +24,7 @@
             </div>
         </div>
     </footer>
+    
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <!-- Bootstrap 5 JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

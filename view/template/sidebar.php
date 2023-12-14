@@ -104,7 +104,7 @@
                         <?php
                         if (isset($_SESSION['username'])) { // Check if a session exists
                             // If a session exists, display a logout link
-                            echo '<li class="mb-1"><a href="../auth/logout.php" class="link-dark rounded">Logout</a></li>';
+                            echo '<li class="mb-1"><a href="../auth/logout.php?logout" class="link-dark rounded">Logout</a></li>';
                         } else {
                             // If no session exists, display a login link
                             echo '<li class="mb-1"><a href="../auth/login.php" class="link-dark rounded">Login</a></li>';
