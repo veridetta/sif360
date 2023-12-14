@@ -15,7 +15,7 @@ if(isset($_GET['slug'])){
         <!-- Navbar content here -->
         <div class="row w-100">
             <?php include '../template/sidebar.php';?>
-            <div class="col-lg-6 col-md-9 col-12 order-lg-2 order-md-2 order-1">
+            <div class="col-lg-6 col-md-9 col-12 order-lg-2 order-md-2 order-2">
                 <p class="fs-5 fw-bold">Menampilkan Kategori <?php echo $category['name'];?> :</p>
                 <article>
                     <?php

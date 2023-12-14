@@ -1,4 +1,4 @@
-<div class="col-lg-3 col-md-3 col-12 order-lg-1 order-md-1 order-2 pr-1">
+<div class="col-lg-3 col-md-3 col-12 order-lg-1 order-md-1 order-1 pr-1">
     <div class="sidebar card w-100">
         <div class="flex-shrink-0 p-3 bg-white">
             <a href="/" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
