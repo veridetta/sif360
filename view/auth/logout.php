@@ -24,7 +24,7 @@ if (isset($_GET['logout'])) {
     logout();
     //tambahkan pesan
     $_SESSION['message'] = "Anda telah berhasil logout.";
-    header("Location: login.php");
+    header("Location: ../public/index.php");
     exit();
 }
 ?>
