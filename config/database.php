@@ -1,6 +1,6 @@
 <?php
 // Konfigurasi koneksi ke database
-$servername = "localhost:1235"; 
+$servername = "localhost"; 
 $username = "root"; 
 $password = ""; 
 $dbname = "db_sif360"; 
